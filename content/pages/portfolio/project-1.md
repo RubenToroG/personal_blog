@@ -1,5 +1,5 @@
 ---
-title: Project Title 1
+title: Studio Ghibli Tracker - Platzi Master
 subtitle: Optional Project Subtitle
 date: '2019-05-10'
 thumb_image: images/1_thumb.jpg
@@ -35,7 +35,9 @@ seo:
 layout: project
 ---
 
-Vis accumsan feugiat adipiscing nisl amet adipiscing accumsan blandit accumsan sapien blandit ac amet faucibus aliquet placerat commodo. Interdum ante aliquet commodo accumsan vis phasellus adipiscing. Ornare a in lacinia. Vestibulum accumsan ac metus massa tempor. Accumsan in lacinia ornare massa amet. Ac interdum ac non praesent. Cubilia lacinia interdum massa faucibus blandit nullam. Accumsan phasellus nunc integer. Accumsan euismod nunc adipiscing lacinia erat ut sit. Arcu amet. Id massa aliquet arcu accumsan lorem amet accumsan.
+En este proyecto colaboramos 6 personas, 3 enfocadas en el front-end y 3 en el back-end, se uso
+ - Swagger: para maquetar endpoints de la API y la documentación
+ - 
 
 >"A designer knows he has achieved perfection not when there is nothing left to add, but when there is nothing left to take away." -Antoine de Saint-Exupery
 

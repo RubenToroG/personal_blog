@@ -8,12 +8,12 @@
         "has_nav": true,
         "nav_links": [
             {
-                "label": "Home",
+                "label": "Inicio",
                 "url": "/",
                 "style": "link"
             },
             {
-                "label": "Portfolio",
+                "label": "Portafolio",
                 "url": "/portfolio/",
                 "style": "link"
             },
@@ -28,19 +28,19 @@
                 "style": "link"
             },
             {
-                "label": "Contact",
+                "label": "Contacto",
                 "url": "/contact/",
                 "style": "link"
             }
         ]
     },
     "footer": {
-        "content": "&copy; Stackbit. All rights reserved. This Jamstack site was created with <a href=\"https://www.stackbit.com/?utm_source=deployed-footer\" target=\"_blank\" rel=\"noopener\">Stackbit</a>. Create yours <a href=\"https://app.stackbit.com/create?theme=exto&utm_source=deployed-footer\" target=\"_blank\" rel=\"noopener\">now</a>",
+        "content": "Ruben Toro - Back-End Developer",
         "has_social": true,
         "social_links": [
             {
                 "label": "Twitter",
-                "url": "https://twitter.com/",
+                "url": "https://twitter.com/rubenToroDev/",
                 "style": "icon",
                 "icon": "twitter",
                 "new_window": true
@@ -53,15 +53,15 @@
                 "new_window": true
             },
             {
-                "label": "Dribbble",
-                "url": "https://dribbble.com/",
+                "label": "GitHub",
+                "url": "https://github.com/RubenToroG/",
                 "style": "icon",
-                "icon": "dribbble",
+                "icon": "github",
                 "new_window": true
             },
             {
                 "label": "LinkedIn",
-                "url": "https://www.linkedin.com/",
+                "url": "https://www.linkedin.com/in/rubentorog/",
                 "style": "icon",
                 "icon": "linkedin",
                 "new_window": true
