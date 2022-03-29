@@ -26,11 +26,6 @@
                 "label": "About",
                 "url": "/about/",
                 "style": "link"
-            },
-            {
-                "label": "Contacto",
-                "url": "/contact/",
-                "style": "link"
             }
         ]
     },

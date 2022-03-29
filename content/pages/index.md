@@ -6,17 +6,17 @@ sections:
     type: section_hero
     title: 'Hola, mi nombre es Ruben, Back-End Developer'
     content: >-
-      Este es un espacio personal, que lo tendré destinado a compartir los proyectos que vaya realizando, así mismo compartir mis conocimientos y nuevos aprendizajes.
+      Este es un espacio personal, que lo tendré destinado a compartir los proyectos que vaya realizando, así mismo compartir mis conocimientos y nuevos aprendizajes, te invito a darle una mirada al Blog.
     actions:
-      - label: Let's talk
-        url: /contact
+      - label: Ir al Blog
+        url: /blog
         style: button
   - section_id: latest-projects
     type: section_portfolio
     layout_style: mosaic
     title: Proyectos relevantes
     subtitle: Coleción de proyectos relevantes en los que he participado o construido.
-    projects_number: 6
+    projects_number: 2
     view_all_label: View All
     view_all_url: portfolio
   - section_id: services
@@ -29,16 +29,13 @@ sections:
       - title: Back-End Developer - Django
         content: >-
           Desarrollador web Django
-      - title: Scraooing web - Python
+      - title: Web Scraping - Python
         content: >-
-          Desarrollo de sistemas de Scrapping web.
+          Desarrollo de sistemas de Erb Scraping.
       - title: Data engineer
         content: >-
           Análisis de información usando Pandas
-      - title: Service title
-        content: >-
-          Vestibulum a nunc ut eros condimentum posuere. Nullam dapibus quis
-          nunc non interdum. Pellentesque tortor ligula, gravida ac commodo eu.
+
   # - section_id: testimonials
   #   type: section_testimonials
   #   title: Testimonials
