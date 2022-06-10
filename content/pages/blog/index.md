@@ -1,6 +1,6 @@
 ---
 title: Blog
-subtitle: 'News, tips and highlights'
+subtitle: 'Un espacio donde dejaré mis aprendizajes del día a día'
 hide_title: false
 col_number: three
 seo:
