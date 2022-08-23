@@ -72,17 +72,17 @@ sections:
             url: blog
             style: button
 seo:
-    title: Stackbit Exto Theme
-    description: The preview of the Exto theme
+    title: Blog Ruben Toro
+    description: Machine Learning, data and more
     extra:
         - name: 'og:type'
           value: website
           keyName: property
         - name: 'og:title'
-          value: Stackbit Exto Theme
+          value: Blog Ruben Toro
           keyName: property
         - name: 'og:description'
-          value: The preview of the Exto theme
+          value: Blog Ruben Toro
           keyName: property
         - name: 'og:image'
           value: images/exto_preview.png
@@ -91,9 +91,9 @@ seo:
         - name: 'twitter:card'
           value: summary_large_image
         - name: 'twitter:title'
-          value: Stackbit Exto Theme
+          value: Blog Ruben Toro
         - name: 'twitter:description'
-          value: The preview of the Exto theme
+          value: Blog Ruben Toro
         - name: 'twitter:image'
           value: images/exto_preview.png
           relativeUrl: true

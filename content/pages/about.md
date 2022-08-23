@@ -32,8 +32,6 @@ seo:
 layout: page
 ---
 
-Desarrollador de software apasionado por la tecnología en general y en especial la programación. Quiero contribuir al desarrollo y avance tecnologico de nuestra sociedad, y liberarme del pensamiento de dejar que otros creen y solo consumir.
-
-<!-- > Se el cambio que quieres ver -->
+Desarrollador de software apasionado por la tecnología la programación, el análisis de datos y el Machine Learning. Quiero contribuir al desarrollo y avance tecnologico de nuestra sociedad, y liberarme del pensamiento de dejar que otros creen y solo consumir.
 
 _Thank You for reading!, I will do my best to share my knowledge_
